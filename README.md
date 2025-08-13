@@ -34,7 +34,7 @@ Have a useful beginner SQL query or retail insight? Contributions are welcome! F
 ##  Connect
 
 - [GitHub Profile](https://github.com/yashharish14-debug)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+  
 
 ---
 
